@@ -69,8 +69,6 @@ To create a robust, automated pipeline that extracts sentiment data from multipl
 
 ---
 
-**GitHub Repository:**
-> [github.com/kennyogun/macmillan-data-automation-demo](https://github.com/kennyogun/macmillan-data-automation-demo)
 
 ---
 
